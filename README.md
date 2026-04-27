@@ -16,7 +16,7 @@ This project solves these problems by analyzing customer data and transforming i
 
 ---
 
-## 📁 Dataset Details  
+## 📁 Dataset Details    
 The dataset contains structured customer information such as:
 - Customer ID  
 - Age  
