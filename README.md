@@ -6,7 +6,7 @@ This project helps organizations identify valuable customers, optimize marketing
 
 ---
 
-## 🎯 Problem Statement  
+## 🎯 Problem Statement    
 Businesses often struggle to understand:
 - Who their most valuable customers are  
 - How customers behave across different product categories  
